@@ -13,7 +13,7 @@
 </div>
 
 ## Thanks to / 致谢 ##
-[Rockchip](https://github.com/rockchip-linux)
+[Rockchip](https://github.com/rockchip-linux) / [Orange PI's Kernel](https://github.com/orangepi-xunlong/linux-orangepi)
 
 [Espressif](https://github.com/espressif) / [ESP-IDF](https://github.com/espressif/esp-idf)
 
@@ -23,7 +23,7 @@
 [dxvk](https://github.com/doitsujin/dxvk)
 [malior](https://github.com/ChisBread/malior)
 
-ChisBread's OC Kernel: https://github.com/ChisBread/linux-orangepi/
+[ChisBread's OC Kernel](https://github.com/ChisBread/linux-orangepi)
 
 ## Progress / 项目进度 ## 
  ![Badge](https://img.shields.io/badge/Overall-15%25-red)  
