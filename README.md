@@ -63,6 +63,4 @@ MD3设计副屏UI的设计稿...只是设计稿。
 
 <img src="https://github.com/DdogezD/projectCh1pMunk/blob/main/Photos/screentest_mc.jpg" width = "30%" alt="screen_minecraft" />
 
-选型屏幕时顺手测试了下mc... 玩mc玩的(
-此时测试的屏幕为微雪的3.5inch屏幕,后面定下来的屏幕不是这块，
-但都是640x480的分辨率。
+选型屏幕时顺手测试了下mc... 玩mc玩的。此时测试的屏幕为微雪的3.5inch屏幕,后面定下来的屏幕不是这块，但都是640x480的分辨率。
