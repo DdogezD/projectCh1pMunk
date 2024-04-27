@@ -1,7 +1,7 @@
 # projectCh1pMunk / 芯片栗鼠 #
 <div align="center">
   
-  <img src="https://github.com/DdogezD/projectCh1pMunk/blob/main/Photos/ch1pmunk.jpg" width = "720" height = "540" alt="Ch1pmunk" align=center />
+  <img src="https://github.com/DdogezD/projectCh1pMunk/blob/main/Photos/ch1pmunk.jpg" width = "60%" alt="Ch1pmunk" align=center />
   
   4-inch dual-screen full-keyboard handheld console, inspired by Nintendo's GBA SP.
 
